@@ -7,6 +7,8 @@
 - [https://github.com/kepler103b/geo-for-ru-only/releases/download/latest/geoip.dat](https://github.com/kepler103b/geo-for-ru-only/releases/download/latest/geoip.dat)
 - [https://github.com/kepler103b/geo-for-ru-only/releases/download/latest/geosite.dat](https://github.com/kepler103b/geo-for-ru-only/releases/download/latest/geosite.dat)
 
+source: [https://github.com/v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
+
 ## 3
 ```code
 geosite:vk
